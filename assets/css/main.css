@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #ffffff;
   font-size: 14px;
   font-weight: 400;
   font-family: "Source Sans Pro", sans-serif;
@@ -213,6 +213,10 @@ button:focus {
 }
 
 .social-icon li .facebook:hover {
+  background: #3b5999;
+}
+
+.social-icon li .github:hover {
   background: #3b5999;
 }
 
