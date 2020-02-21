@@ -1,5 +1,5 @@
 Mohammed Ameen Mayet
-Github webpages documentation 
+Creating a github profile webage 
 
 ___________________________________________________________________________________________
 17 February 2020
