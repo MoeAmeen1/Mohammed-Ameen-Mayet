@@ -17,4 +17,4 @@ ________________________________________________________________________________
 Updated github webpage, added education section and refined webpage. CorpWIFI fixed itself and let me view webpage.
 ___________________________________________________________________________________________
 20 February 2020 
-Updated github webpage, added downloadable resume section. Refined webpage and made it mobile friendly.
+Updated github webpage, added downloadable resume section and added certifications section Refined webpage and made it mobile friendly.
