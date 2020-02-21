@@ -3,7 +3,7 @@ Github webpages documentation
 
 ___________________________________________________________________________________________
 17 February 2020
-Created github account and create github webpage header with link to github profile and linkdin and include a photo.
+Created github account and create github webpage header with link to github profile and linkdin and include a photo. It would be beneficial to learn the github command lines which can be found here: https://education.github.com/git-cheat-sheet-education.pdf
 ___________________________________________________________________________________________
 18 February 2020
 
